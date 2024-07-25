@@ -1,30 +1,35 @@
-# Tutorial de Uso
+Tutorial
+=========
 
-Este tutorial irá guiá-lo através dos principais recursos do software.
+This tutorial will guide you through the main features of the software.
 
-## Passo 1: Instalação
+Step 1: Installation
+---------------------
 
-Para instalar o software, siga estes passos:
+To install the software, follow these steps:
 
-1. Baixe o pacote de instalação do [site oficial](https://example.com).
-2. Execute o instalador e siga as instruções na tela.
+1. Download the installation package from the [official site](https://example.com).
+2. Run the installer and follow the on-screen instructions.
 
-## Passo 2: Configuração
+Step 2: Configuration
+----------------------
 
-Após a instalação, você precisará configurar o software. Abra o aplicativo e siga estas etapas:
+After installation, you will need to configure the software. Open the application and follow these steps:
 
-1. Vá para o menu de configurações.
-2. Insira suas credenciais e preferências.
+1. Go to the settings menu.
+2. Enter your credentials and preferences.
 
-## Passo 3: Uso Básico
+Step 3: Basic Usage
+----------------------
 
-Para começar a usar o software:
+To start using the software:
 
-1. Abra o aplicativo.
-2. Navegue pelos menus para explorar os recursos.
+1. Open the application.
+2. Navigate through the menus to explore the features.
 
-Se você encontrar problemas, consulte a seção de [Perguntas Frequentes](#) ou entre em contato com o suporte técnico.
+For issues, refer to the [FAQ](#) or contact support.
 
-## Contato
+Contact
+--------
 
-Para mais ajuda, entre em contato conosco pelo e-mail [suporte@example.com](mailto:suporte@example.com).
+For further assistance, contact us at [support@example.com](mailto:support@example.com).
